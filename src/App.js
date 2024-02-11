@@ -9,7 +9,7 @@ function App() {
     <>
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<InitialPage/>}/>
+      <Route path='/valentine_day_alexia' element={<InitialPage/>}/>
       <Route path='/love' element={<SecondPage/>}/>
     </Routes>
     </BrowserRouter>
