@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentine_day_alexia/static/css/main.5326e0b0.css",
-    "main.js": "/valentine_day_alexia/static/js/main.dfd823ac.js",
+    "main.js": "/valentine_day_alexia/static/js/main.91c246bd.js",
     "static/js/592.e7e80df4.chunk.js": "/valentine_day_alexia/static/js/592.e7e80df4.chunk.js",
     "static/media/37740.jpeg": "/valentine_day_alexia/static/media/37740.8338c99fa28cc68a8312.jpeg",
     "static/media/37914.jpeg": "/valentine_day_alexia/static/media/37914.f2c419f5ce97c1ca6c56.jpeg",
@@ -21,11 +21,11 @@
     "static/media/cute_pusheen.avif": "/valentine_day_alexia/static/media/cute_pusheen.536cf0d19782899d6075.avif",
     "index.html": "/valentine_day_alexia/index.html",
     "main.5326e0b0.css.map": "/valentine_day_alexia/static/css/main.5326e0b0.css.map",
-    "main.dfd823ac.js.map": "/valentine_day_alexia/static/js/main.dfd823ac.js.map",
+    "main.91c246bd.js.map": "/valentine_day_alexia/static/js/main.91c246bd.js.map",
     "592.e7e80df4.chunk.js.map": "/valentine_day_alexia/static/js/592.e7e80df4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5326e0b0.css",
-    "static/js/main.dfd823ac.js"
+    "static/js/main.91c246bd.js"
   ]
 }
